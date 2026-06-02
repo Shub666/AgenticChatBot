@@ -12,3 +12,4 @@ bs4
 streamlit
 faiss-cpu
 langchain-tavily
+pydantic
