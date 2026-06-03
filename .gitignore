@@ -20,3 +20,4 @@ src/langgraphagenticai/nodes/__pycache__/basic_chatbot_node.cpython-313.pyc
 src/langgraphagenticai/nodes/__pycache__/chatbot_with_tool_node.cpython-313.pyc
 src/langgraphagenticai/tools/__pycache__/__init__.cpython-313.pyc
 src/langgraphagenticai/tools/__pycache__/search_tool.cpython-313.pyc
+src/langgraphagenticai/nodes/__pycache__/ai_news_node.cpython-313.pyc
